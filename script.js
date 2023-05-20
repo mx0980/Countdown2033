@@ -1,4 +1,4 @@
-let tetAmLich = new Date("May 11, 2033 00:00:00").getTime();
+let tetAmLich = new Date("May 20, 2033 12:16:57").getTime();
 function newYear() {
   /*Lấy thời gian ngày hiện tại (mily giây) */
   let ngayHienTai = new Date().getTime();
